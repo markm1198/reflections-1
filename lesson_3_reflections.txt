@@ -5,7 +5,7 @@ local?
      also as a back up to your system.
 
 Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+automatically stay up-to-date with your remote repository? allows you better control but also ensures the backup of your work.
 
     Fill in your answer here
 
